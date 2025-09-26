@@ -1,9 +1,4 @@
-
-
-import React from 'react'
-
-export default function helloworld () {
-  return (
-    <div>hello world</div>
-  )
+export function App(){
+    return<>
+    <h1>Hello world</h1></>
 }
